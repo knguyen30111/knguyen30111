@@ -1,6 +1,6 @@
-### Hi there!
+## Hi there!
 
-### I'm Nguyen Le (he/him). I'm a Front-End Lead at Zeals.
+## I'm Nguyen Le (he/him). I'm a Front-End Lead at Zeals.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-le-87170a1a9/)](https://www.linkedin.com/in/nguyen-le-87170a1a9/)
 [![GitHub followers](https://img.shields.io/github/followers/knguyen30111.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/knguyen30111?tab=followers)
@@ -14,7 +14,7 @@
 
 - 🏗️ &nbsp; Keen interest in software architecture and designing scalable systems.
 
-### Can work with ...
+## Can work with ...
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,express,html,css,nextjs,redux,sass,tailwind,jest,webpack,vscode,git,github,nestjs,go,gcp,aws,docker,mongodb,postgres,redis)
 
