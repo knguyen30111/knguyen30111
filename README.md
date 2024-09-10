@@ -13,7 +13,6 @@
 - 🔍 &nbsp; Identifying issues and finding the best approaches to solve complex problems efficiently.
 
 - 🏗️ &nbsp; Keen interest in software architecture and designing scalable systems.
-<hr>
 
 ### Can work with ...
 
